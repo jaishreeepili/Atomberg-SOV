@@ -1,0 +1,315 @@
+{
+  "brands": [
+    "atomberg",
+    "havells",
+    "crompton",
+    "orient",
+    "usha",
+    "bajaj",
+    "luminous"
+  ],
+  "metrics": {
+    "atomberg": {
+      "posts_with_brand": 43,
+      "sov_content": 0.7166666666666667,
+      "sov_engagement": 0.4757980630463482,
+      "sov_comments": 0.5731414868105515,
+      "share_of_positive_voice": 0.7049180327868854,
+      "posts_with_brand_independent": 41,
+      "sov_content_independent": 0.7321428571428571
+    },
+    "havells": {
+      "posts_with_brand": 15,
+      "sov_content": 0.25,
+      "sov_engagement": 0.12254784756944478,
+      "sov_comments": 0.17985611510791366,
+      "share_of_positive_voice": 0.17213114754098366,
+      "posts_with_brand_independent": 15,
+      "sov_content_independent": 0.26785714285714285
+    },
+    "crompton": {
+      "posts_with_brand": 9,
+      "sov_content": 0.15,
+      "sov_engagement": 0.27305960198435913,
+      "sov_comments": 0.11270983213429256,
+      "share_of_positive_voice": 0.04918032786885247,
+      "posts_with_brand_independent": 8,
+      "sov_content_independent": 0.14285714285714285
+    },
+    "orient": {
+      "posts_with_brand": 15,
+      "sov_content": 0.25,
+      "sov_engagement": 0.08217958926439484,
+      "sov_comments": 0.09352517985611511,
+      "share_of_positive_voice": 0.0737704918032787,
+      "posts_with_brand_independent": 14,
+      "sov_content_independent": 0.25
+    },
+    "usha": {
+      "posts_with_brand": 5,
+      "sov_content": 0.08333333333333333,
+      "sov_engagement": 0.044400787536984405,
+      "sov_comments": 0.02877697841726619,
+      "share_of_positive_voice": 0.0,
+      "posts_with_brand_independent": 5,
+      "sov_content_independent": 0.08928571428571429
+    },
+    "bajaj": {
+      "posts_with_brand": 1,
+      "sov_content": 0.016666666666666666,
+      "sov_engagement": 0.001007055299234243,
+      "sov_comments": 0.011990407673860911,
+      "share_of_positive_voice": 0.0,
+      "posts_with_brand_independent": 1,
+      "sov_content_independent": 0.017857142857142856
+    },
+    "luminous": {
+      "posts_with_brand": 1,
+      "sov_content": 0.016666666666666666,
+      "sov_engagement": 0.001007055299234243,
+      "sov_comments": 0.0,
+      "share_of_positive_voice": 0.0,
+      "posts_with_brand_independent": 1,
+      "sov_content_independent": 0.017857142857142856
+    }
+  },
+  "topic_metrics": {
+    "smart_features": {
+      "atomberg": {
+        "posts_with_brand": 38,
+        "sov_content": 0.7916666666666666,
+        "share_of_positive_voice": 0.5774647887323943
+      },
+      "havells": {
+        "posts_with_brand": 11,
+        "sov_content": 0.22916666666666666,
+        "share_of_positive_voice": 0.2112676056338028
+      },
+      "crompton": {
+        "posts_with_brand": 7,
+        "sov_content": 0.14583333333333334,
+        "share_of_positive_voice": 0.08450704225352113
+      },
+      "orient": {
+        "posts_with_brand": 14,
+        "sov_content": 0.2916666666666667,
+        "share_of_positive_voice": 0.1267605633802817
+      },
+      "usha": {
+        "posts_with_brand": 5,
+        "sov_content": 0.10416666666666667,
+        "share_of_positive_voice": 0.0
+      },
+      "bajaj": {
+        "posts_with_brand": 1,
+        "sov_content": 0.020833333333333332,
+        "share_of_positive_voice": 0.0
+      },
+      "luminous": {
+        "posts_with_brand": 1,
+        "sov_content": 0.020833333333333332,
+        "share_of_positive_voice": 0.0
+      }
+    },
+    "energy_saving": {
+      "atomberg": {
+        "posts_with_brand": 32,
+        "sov_content": 0.6530612244897959,
+        "share_of_positive_voice": 0.672727272727273
+      },
+      "havells": {
+        "posts_with_brand": 15,
+        "sov_content": 0.30612244897959184,
+        "share_of_positive_voice": 0.19090909090909094
+      },
+      "crompton": {
+        "posts_with_brand": 9,
+        "sov_content": 0.1836734693877551,
+        "share_of_positive_voice": 0.05454545454545456
+      },
+      "orient": {
+        "posts_with_brand": 15,
+        "sov_content": 0.30612244897959184,
+        "share_of_positive_voice": 0.08181818181818185
+      },
+      "usha": {
+        "posts_with_brand": 5,
+        "sov_content": 0.10204081632653061,
+        "share_of_positive_voice": 0.0
+      },
+      "bajaj": {
+        "posts_with_brand": 1,
+        "sov_content": 0.02040816326530612,
+        "share_of_positive_voice": 0.0
+      },
+      "luminous": {
+        "posts_with_brand": 1,
+        "sov_content": 0.02040816326530612,
+        "share_of_positive_voice": 0.0
+      }
+    },
+    "price_value": {
+      "atomberg": {
+        "posts_with_brand": 7,
+        "sov_content": 0.5384615384615384,
+        "share_of_positive_voice": 0.5
+      },
+      "havells": {
+        "posts_with_brand": 8,
+        "sov_content": 0.6153846153846154,
+        "share_of_positive_voice": 0.25
+      },
+      "crompton": {
+        "posts_with_brand": 7,
+        "sov_content": 0.5384615384615384,
+        "share_of_positive_voice": 0.25
+      },
+      "orient": {
+        "posts_with_brand": 9,
+        "sov_content": 0.6923076923076923,
+        "share_of_positive_voice": 0.0
+      },
+      "usha": {
+        "posts_with_brand": 4,
+        "sov_content": 0.3076923076923077,
+        "share_of_positive_voice": 0.0
+      },
+      "bajaj": {
+        "posts_with_brand": 1,
+        "sov_content": 0.07692307692307693,
+        "share_of_positive_voice": 0.0
+      },
+      "luminous": {
+        "posts_with_brand": 1,
+        "sov_content": 0.07692307692307693,
+        "share_of_positive_voice": 0.0
+      }
+    },
+    "noise_silent": {
+      "atomberg": {
+        "posts_with_brand": 9,
+        "sov_content": 0.8181818181818182,
+        "share_of_positive_voice": 1.0
+      },
+      "havells": {
+        "posts_with_brand": 5,
+        "sov_content": 0.45454545454545453,
+        "share_of_positive_voice": 0.0
+      },
+      "crompton": {
+        "posts_with_brand": 5,
+        "sov_content": 0.45454545454545453,
+        "share_of_positive_voice": 0.0
+      },
+      "orient": {
+        "posts_with_brand": 6,
+        "sov_content": 0.5454545454545454,
+        "share_of_positive_voice": 0.0
+      },
+      "usha": {
+        "posts_with_brand": 2,
+        "sov_content": 0.18181818181818182,
+        "share_of_positive_voice": 0.0
+      },
+      "bajaj": {
+        "posts_with_brand": 0,
+        "sov_content": 0.0,
+        "share_of_positive_voice": 0.0
+      },
+      "luminous": {
+        "posts_with_brand": 0,
+        "sov_content": 0.0,
+        "share_of_positive_voice": 0.0
+      }
+    }
+  },
+  "high_risk_videos": [
+    {
+      "video_id": "auGsGYXFisg",
+      "title": "Ceiling fan \ud83d\ude29 atomberg studio smart plus fan #fan #fansound #shorts #shortsvideo #viralvideo",
+      "url": "https://www.youtube.com/watch?v=auGsGYXFisg",
+      "keyword": "smart fan",
+      "engagement_per_day": 2964.6208333333334,
+      "avg_atomberg_sentiment": -1.0,
+      "topics": [
+        "smart_features"
+      ]
+    },
+    {
+      "video_id": "auGsGYXFisg",
+      "title": "Ceiling fan \ud83d\ude29 atomberg studio smart plus fan #fan #fansound #shorts #shortsvideo #viralvideo",
+      "url": "https://www.youtube.com/watch?v=auGsGYXFisg",
+      "keyword": "smart ceiling fan",
+      "engagement_per_day": 2964.6208333333334,
+      "avg_atomberg_sentiment": -1.0,
+      "topics": [
+        "smart_features"
+      ]
+    },
+    {
+      "video_id": "g3uJjG1zxd0",
+      "title": "Atomberg Renesa smart fan #shorts #youtubeshorts #smartgadgets #homeimprovement #amazonfinds",
+      "url": "https://www.youtube.com/watch?v=g3uJjG1zxd0",
+      "keyword": "smart fan",
+      "engagement_per_day": 3631.1743486973946,
+      "avg_atomberg_sentiment": -0.3333333333333333,
+      "topics": [
+        "smart_features"
+      ]
+    }
+  ],
+  "high_opportunity_videos": [
+    {
+      "video_id": "k5ff7kky9fQ",
+      "title": "How to Convert Crompton Parkinson Ceiling Fan to BLDC Fan \ud83e\udd29#ceilingfan #kipasmurah",
+      "url": "https://www.youtube.com/watch?v=k5ff7kky9fQ",
+      "keyword": "bldc fan",
+      "engagement_per_day": 33456.5393258427,
+      "competitors": [
+        "crompton"
+      ],
+      "topics": [
+        "energy_saving"
+      ]
+    },
+    {
+      "video_id": "bNx1_FD_WAo",
+      "title": "Best Ceiling Fan 2025 In India | Best Fan For Home | Best Ceiling Fan | Fan Konsa Lena Chahiye",
+      "url": "https://www.youtube.com/watch?v=bNx1_FD_WAo",
+      "keyword": "energy saving fan",
+      "engagement_per_day": 1772.4935897435898,
+      "competitors": [
+        "bajaj",
+        "orient"
+      ],
+      "topics": [
+        "energy_saving"
+      ]
+    },
+    {
+      "video_id": "3wkfkBYNnzU",
+      "title": "Modern Ceiling Fan | Bladeless ceiling fan SMART CEILLING FAN with light #viralshort #ceilingfan",
+      "url": "https://www.youtube.com/watch?v=3wkfkBYNnzU",
+      "keyword": "smart fan",
+      "engagement_per_day": 1679.8125,
+      "competitors": [
+        "orient",
+        "usha"
+      ],
+      "topics": [
+        "energy_saving",
+        "smart_features",
+        "price_value"
+      ]
+    }
+  ],
+  "co_mentions": {
+    "atomberg|havells": 12,
+    "atomberg|crompton": 9,
+    "havells|usha": 2,
+    "atomberg|orient": 2,
+    "crompton|havells": 4,
+    "crompton|orient": 1,
+    "havells|orient": 1
+  }
+}
